@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kavyajeet Bora</h1>
-<h3 align="center">Geospatial Data Scientist | Innovating AEC with AI, DevOps, and Data Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavyajeetbora&label=Profile%20views&color=0e75b6&style=flat" alt="kavyajeetbora" /> </p>
 
