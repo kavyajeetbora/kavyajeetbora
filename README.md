@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kavyajeet Bora</h1>
+<h1 align="left">Hi 👋, I'm Kavyajeet Bora</h1>
 
 - 🔭 I’m currently working as a **Geospatial Data Scientist at Buro Happold**
 - 🌱 Interested in applying cutting-edge technologies like AI, DevOps, and data engineering concepts in the AEC industry to bridge the gap between different sectors, innovate new tools, and educate people with simplified tutorials to enhance their day-to-day work efficiency.
