@@ -46,7 +46,7 @@
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> </a> 
 </p>
 
-<h2 align="left">My Articles</h2>
+<h2 align="left">📚 My Published Articles on Medium</h2>
 
 ###
 
@@ -58,11 +58,13 @@
   - 🍲 <a href="https://medium.com/@kavyajeetbora/create-a-food-recipe-recommender-application-using-sentence-transformer-model-and-streamlit-aea2141a4599">Create a Food Recipe Recommender Application using Sentence Transformer Model and Streamlit</a>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavyajeetbora" alt="kavyajeetbora" /></a> </p>
+###
 
 <h2 align="left">GitHub Stats</h2>
 
 ###
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavyajeetbora" alt="kavyajeetbora" /></a> </p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavyajeetbora&show_icons=true&locale=en&layout=compact&card_width=500" alt="kavyajeetbora" />
