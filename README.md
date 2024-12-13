@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavyajeet Bora</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavyajeetbora&label=Profile%20views&color=0e75b6&style=flat" alt="kavyajeetbora" /> </p>
-
 - 🔭 I’m currently working as a **Geospatial Data Scientist at Buro Happold**
 - 🌱 Interested in applying cutting-edge technologies like AI, DevOps, and data engineering concepts in the AEC industry to bridge the gap between different sectors, innovate new tools, and educate people with simplified tutorials to enhance their day-to-day work efficiency.
 - 👯 I’m looking to collaborate on **projects pertaining to Geospatial Data Science and the AEC industry**
